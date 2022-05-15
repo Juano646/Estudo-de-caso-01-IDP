@@ -1,0 +1,12 @@
+x1 = k
+x2 = L
+x3 = m
+x4 = n
+x5 = a
+x6 = b
+x7 = c
+x8 = p
+x9 = q
+x10 = r
+x11 = s
+x12 = T
